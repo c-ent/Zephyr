@@ -1,0 +1,21 @@
+{
+    "name": "encar/zephyr",
+    "autoload": {
+        "psr-4": {
+            "Services\\": "services/",
+            "App\\": "src/",
+            "Controllers\\": "src/Controllers/",
+            "Models\\": "src/Models/",
+            "Views\\": "src/Views/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elher Encarnacion",
+            "email": "encarnacionelher@gmail.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.6"
+    }
+}
