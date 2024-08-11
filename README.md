@@ -5,3 +5,12 @@ Zephyr is a lightweight and elegant MVC boilerplate for vanilla PHP, designed to
 composer install
 
 db name zephyr
+
+
+
+todo:
+php mailer
+migration
+seeder
+role base user
+router middleware group
