@@ -9,8 +9,8 @@ db name zephyr
 
 
 todo:
-php mailer
-migration
-seeder
-role base user
+php mailer, 
+migration, 
+seeder, 
+role base user, 
 router middleware group
