@@ -1,6 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 p, h1, h2, h3, h4, h5, a, span, td, tr, th, div, li, ul, ol, button, form, input, textarea, select,div {
     font-family: 'Poppins', sans-serif; 
